@@ -34,8 +34,8 @@ Fig: UseCase Diagram
 
 ## Requirements:
 
-###### 1. Install libraries and modules used in the project using 'pip' command.
-###### 2. Add your OpenAI API code
+#### 1. Install libraries and modules used in the project using 'pip' command.
+#### 2. Add your OpenAI API code
 
 
 
@@ -47,7 +47,7 @@ Fig: UseCase Diagram
 
 2. Replace ********* with your API key. 
 
-###### 3. Get OpenAI API 
+#### 3. Get OpenAI API 
 To get the API, follow the following steps:
 1. Go to   https://platform.openai.com/apps
 2. Click "API"
@@ -59,6 +59,8 @@ To get the API, follow the following steps:
 5. Create new secret key > Create Secret Key > Copy the API Key.
 
 
+
+#### 4. In app.py, inside "read_email_from_gmail()" method, enter your email and password.
 
 
 
