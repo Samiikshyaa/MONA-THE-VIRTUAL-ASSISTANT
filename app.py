@@ -24,7 +24,7 @@ import openai
 openai.api_key = "*********"
 
 
-# Replace ********* with your API CODE. 
+# Replace ********* with your API key. 
 # To get the API code follow the steps Mentioned in the README part.
 
 
