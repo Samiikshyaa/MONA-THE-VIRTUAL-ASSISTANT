@@ -64,7 +64,13 @@ def read_email_from_gmail():
     show=''
     say=''
     mail = imaplib.IMAP4_SSL("imap.gmail.com")
-    mail.login("suyog.sharma74@gmail.com", "whqcczxdtetqwjft")
+
+
+
+    # ENTER YOUR EMAIL AND PASSWORD
+    mail.login("YOUR EMAIL", "YOUR PASSWORD")
+    
+    
     mail.select("[Gmail]/Starred")
 
     result, data = mail.search(None, "ALL")
