@@ -5,12 +5,12 @@ Prepared By: Samikshya Timalsina, Pratik Kumar Labh, Suyog Sharma, Utsav Sharma
 A MINOR PROJECT REPORT SUBMITTED FOR PARTIAL FULFILLMENT OF THE DEGREE OF BACHELORS IN COMPUTER ENGINEERING
 
 
-### Introduction
+## Introduction
 Meet MONA, your delightful AI sidekick, always ready to lend a digital hand and unravel the mysteries of the universe at your command. Whether it's tackling tasks or quenching your curiosity, she's your trusty companion on the journey of knowledge and efficiency.
 
 MONA, the adorable AI wonder, was lovingly crafted with the magic of Python spells.
 
-### What Can Mona do?
+## What Can Mona do?
 1. Say date, time
 2. Tell a joke
 3. Tell the weather of the location mentioned by the user 
@@ -32,7 +32,7 @@ Fig: UseCase Diagram
 
 
 
-### Requirements:
+## Requirements:
 
 ###### 1. Install libraries and modules used in the project using 'pip' command.
 ###### 2. Add your OpenAI API code
@@ -62,7 +62,7 @@ To get the API, follow the following steps:
 
 
 
-### Methodology
+## Methodology
 
 #### Block Diagram
 
@@ -73,7 +73,7 @@ Fig: Block Diagram of the system
 
 
 
-### Result
+## Result
 
 ![result1](https://github.com/Samiikshyaa/Mona-The-Virtual-Assistant/assets/98102213/c852fd3f-f31f-4ebd-92c5-28daff198d1f)
 
